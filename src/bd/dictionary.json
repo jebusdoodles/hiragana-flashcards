@@ -1,0 +1,27 @@
+[
+    {
+        "hira": "あ",
+        "meaning": "a",
+        "type": "vowel"
+    },
+    {
+        "hira": "い",
+        "meaning": "i",
+        "type": "vowel"
+    },
+    {
+        "hira": "う",
+        "meaning": "u",
+        "type": "vowel"
+    },
+    {
+        "hira": "え",
+        "meaning": "e",
+        "type": "vowel"
+    },
+    {
+        "hira": "お",
+        "meaning": "o",
+        "type": "vowel"
+    }
+]
